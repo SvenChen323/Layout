@@ -1,8 +1,5 @@
 # Layout
 
-![初始化界面](https://github.com/llfjfz/AndroidTutorials/blob/master/LayoutTutorial/screenshots/1.png)   
-
-
 ![线性布局示例](https://github.com/llfjfz/AndroidTutorials/blob/master/LayoutTutorial/screenshots/2.png)  
 
 
